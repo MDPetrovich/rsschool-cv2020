@@ -2,11 +2,16 @@
 
 ## Sheluto Viktor
 
-#### Contact Info: *Phone number: +375291847513 *Email: Greshnik578@yandex.by *LinkedIn *Skype: shelutovp *VK
+#### Contact Info: 
+* Phone number: +375291847513 
+* Email: Greshnik578@yandex.by 
+* [LinkedIn](https://www.linkedin.com/in/viktor-sheluto/) 
+* Skype: shelutovp 
+* [VK](https://vk.com/ulybchivyi_doktor)
 
 ### Goals: do world better
 
-###Basic skills:
+### Basic skills:
 * C
 * Kotlin
 * PHP
