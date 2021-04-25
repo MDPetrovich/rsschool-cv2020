@@ -6,7 +6,7 @@
 
 ### Goals: do world better
 
-Basic skills
+###Basic skills:
 * C
 * Kotlin
 * PHP
@@ -15,4 +15,4 @@ Basic skills
 
 #### Education: *Belarussian State Medical University ‘14 *ITstep 2016 (C/C++)
 
-#### English: (A1) basic knowledge.
+### English: (A1) basic knowledge.
